@@ -1,24 +1,24 @@
 {
-	"players": [
-		{
-			"id": 1,
-			"name": "Sally",
-			"level": 2
-		},
-		{
-			"id": 2,
-			"name": "Lance",
-			"level": 1
-		},
-		{
-			"id": 3,
-			"name": "Aki",
-			"level": 3
-		},
-		{
-			"id": 4,
-			"name": "Maria",
-			"level": 4
-		}
-	]
+  "players": [
+    {
+      "id": 1,
+      "name": "Sally",
+      "level": 8
+    },
+    {
+      "id": 2,
+      "name": "Lance",
+      "level": 5
+    },
+    {
+      "id": 3,
+      "name": "Aki",
+      "level": 8
+    },
+    {
+      "id": 4,
+      "name": "Maria",
+      "level": 13
+    }
+  ]
 }

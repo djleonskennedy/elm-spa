@@ -1,4 +1,6 @@
-var path = require("path");
+var
+  path = require("path"),
+  webpack = require('webpack');
 
 module.exports = {
   entry: {
@@ -27,6 +29,9 @@ module.exports = {
       }],
     noParse: /\.elm$/
   },
+  plugins: [
+    new webpack.NoErrorsPlugin()
+  ],
   devServer: {
     inline: true,
     stats: {colors: true}

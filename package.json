@@ -1,7 +1,7 @@
 {
   "name": "spa-elm",
   "version": "0.0.1",
-  "description": "",
+  "description": "I'm making this app according to elm-tutorial to learn\r it's beautiful language !",
   "main": "index.js",
   "scripts": {
     "api": "node api.js",
@@ -24,5 +24,20 @@
     "webpack": "^1.13.2",
     "webpack-dev-middleware": "^1.6.1",
     "webpack-dev-server": "^1.15.0"
-  }
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/djleonskennedy/elm-spa.git"
+  },
+  "keywords": [
+    "elm",
+    "spa",
+    "router",
+    "composition"
+  ],
+  "bugs": {
+    "url": "https://github.com/djleonskennedy/elm-spa/issues"
+  },
+  "homepage": "https://github.com/djleonskennedy/elm-spa#readme"
 }
